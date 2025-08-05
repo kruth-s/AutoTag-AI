@@ -17,12 +17,6 @@ This project demonstrates an AI-powered pipeline for **automated image tagging**
 - [CLIP (OpenAI)](https://github.com/openai/CLIP) – Image-Text Similarity
 - PyTorch, Hugging Face Transformers, Sentence-Transformers
 
-## Project Structure
-
-├── AI_Image_Tagger.ipynb # Main Google Colab notebook 
-├── README.md # Project documentation 
-└── examples/ # Sample images and results (optional)
-
 ## Installation (for local development)
 
 pip install transformers==4.30.2
